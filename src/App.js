@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        let start
+        new amazing function
     </div>
   );
 }
